@@ -115,6 +115,8 @@ graph TB
 
 **Live:** [novakidlife.com](https://novakidlife.com)
 
+![NovaKidLife](novakidlifewebsite.png)
+
 A production, monetized web platform that aggregates family-friendly events, deals, and Pokémon TCG activities across Northern Virginia. The entire backend is an automated data pipeline — scraping, image generation, blog content, and site deployment all run on schedule without any manual intervention.
 
 ```mermaid
