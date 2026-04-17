@@ -1,8 +1,6 @@
 # TJ Kim
 
-Former restaurant operator turned software engineer. I spent years running the business side of hospitality — scheduling, people management, the whole operation — before teaching myself to build the tools I always wished existed.
-
-Everything I build is production-deployed, architecture-first, and designed to handle real problems for real users.
+I went from running a restaurant to driving growth at SaaS companies to building cloud and AI systems. Not aspiring — already shipping. Everything I build is production-deployed, architecture-first, and designed to solve real problems for real users.
 
 ---
 
